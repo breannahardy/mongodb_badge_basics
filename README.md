@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Figure 1: Example screenshots of healthcare badge progress.</em>
+  <em> Badge Completion </em>
 </p>
 
 
