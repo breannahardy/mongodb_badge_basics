@@ -1,7 +1,7 @@
 # MongoDB Badge Basics
 <p align="center">
   <img src="images/Screenshot 2025-11-11 040504.png" alt="MongoDB Overview" width="400" style="margin-right:10px;">
-  <img src="images/Screenshot-2025-11-11-040711.png" alt="Relational to Document Model" width="400">
+  <img src="images/Screenshot 2025-11-11 040711.png" alt="Relational to Document Model" width="400">
 </p>
 
 <p align="center">
